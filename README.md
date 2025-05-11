@@ -1,6 +1,6 @@
 ### Hello There! 🐱‍👤
 
-I’m currently studying Software Engineering at CEUB University in Brasília (1st semester). At the moment, I'm focused on learning programming languages like JavaScript, Python, and C — building a strong foundation to better understand the areas I’m passionate about.
+I’m currently studying Software Engineering at CEUB University in Brasília (1st semester). At the moment, I'm focused on learning programming languages like JavaScript, Python, and C. Building a strong foundation to better understand the areas I’m passionate about.
 
 I'm particularly interested in Software Architecture, Security Layers, and AI-powered Automation for creative tools.  
 I’m also studying how to interpret software requirements and understand how systems are planned and structured.
