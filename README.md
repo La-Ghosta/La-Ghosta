@@ -19,7 +19,11 @@ This repository is part of my portfolio and documents my journey as I grow and e
 
 ---
 
-![Ghosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-Ghosta&show_icons=true&theme=radical)
+![Ghosta's GitHub stats](https://github-readme-stats-guilhermes-projects-aa52d802.vercel.app/api?username=La-Ghosta&show_icons=true&theme=radical&count_private=true)
+
+
+
+
 
 ### My social Contacts
 
